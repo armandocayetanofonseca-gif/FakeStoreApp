@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FakeStore</string>
+
+    <string name="error_invalid_credentials">Usuario o contraseña inválidos</string>
+    <string name="error_generic">Ocurrió un error. Intenta de nuevo.</string>
+
+    <string name="dialog_no_connection_title">Sin conexión</string>
+    <string name="dialog_no_connection_message">No se detectó conexión a internet. Verifica tu red e intenta nuevamente.</string>
+    <string name="dialog_accept">Aceptar</string>
+</resources>
